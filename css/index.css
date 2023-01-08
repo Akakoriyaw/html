@@ -1,0 +1,45 @@
+body {
+    background: green;
+}
+img {
+    width: 350;
+    height: 350;
+}
+.button {
+    background-color: red;
+    color: white;
+    border: none;
+    height: 36;
+    width: 105;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-right: 8px;
+
+}
+.join-button {
+    background-color: white;
+    color: rgb(103, 44, 240);
+    border-color: rgb(35, 35, 241);
+    border-style: solid;
+    width: 62;
+    height: 36;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 2px;
+    margin-right: 8px;
+
+}
+.tweet-button{
+    background-color: blue;
+    color: rgba(228, 223, 238, 0.808);
+    border: none;
+    width: 62;
+    height: 36;
+    border-width: 1px;
+    cursor: pointer;
+    border-radius: 2px;
+
+}
+textarea {
+    margin-top: 10px;
+}
